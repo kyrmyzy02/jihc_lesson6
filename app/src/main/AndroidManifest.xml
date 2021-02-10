@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.JihcLesson">
-        <activity android:name=".tirkelu"></activity>
+        <activity android:name=".lesson3"></activity>
+        <activity android:name=".tirkelu" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
